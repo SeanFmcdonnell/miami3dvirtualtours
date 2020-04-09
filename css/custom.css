@@ -110,6 +110,11 @@ button {
 #contact {
     background-size: cover;
 }
+@media only screen and (max-width: 600px){
+    #contact {
+        margin-top: -233px;
+    }
+}
 
 #contact ul li {
     padding: 3px 0;
